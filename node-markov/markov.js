@@ -49,6 +49,6 @@ class MarkovMachine {
     return output.join(" ");
   }
 }
-module.exposrts = {
+module.exports = {
   MarkovMachine,
 }
